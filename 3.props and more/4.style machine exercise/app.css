@@ -1,0 +1,13 @@
+.machine{
+    background-color: aquamarine;
+    border : 2px solid black;
+}
+
+.green{
+    color: white;
+    background-color: green;
+}
+.red{
+    color: white;
+    background-color: red;
+}
